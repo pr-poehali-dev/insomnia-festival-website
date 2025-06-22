@@ -33,12 +33,12 @@ const HeroSection = () => {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-12 text-slate-400">
           <div className="flex items-center gap-2">
             <Icon name="Calendar" size={20} />
-            <span>15-16 июля 2025</span>
+            <span>17-21 июля 2025</span>
           </div>
           <div className="hidden md:block w-1 h-1 bg-slate-500 rounded-full"></div>
           <div className="flex items-center gap-2">
             <Icon name="MapPin" size={20} />
-            <span>Парк Сокольники, Москва</span>
+            <span>Калужская область</span>
           </div>
         </div>
 
